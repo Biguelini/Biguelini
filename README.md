@@ -15,8 +15,8 @@
 
 <br>
 
-<img align="left" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&theme=cobalt&layout=compact" />
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&theme=cobalt&layout=compact" />
 
-<img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Biguelini&theme=cobalt&show_icons=true&hide_border=true" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Biguelini&theme=cobalt&show_icons=true&hide_border=true" />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
