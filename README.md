@@ -3,9 +3,9 @@
 
 <br>
 
-- 🌱 I’m currently learning Python and JavaScript;
+- 🌱 I’m currently learning Python, JavaScript and C#;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: biguelinijoao@gmail.com, [twitter](https://twitter.com/bigueeeee), [instagram](https://www.instagram.com/bigueeee/);
+- 📫 How to reach me: biguelinijoao@gmail.com, [instagram](https://www.instagram.com/bigueeee/);
 
 - **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
