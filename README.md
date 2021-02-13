@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Python, PHP, Data Science and Machine Learning;
+- 🌱 I’m currently learning Python, PHP, C, Visual Basic;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: biguelinijoao@gmail.com, [instagram](https://www.instagram.com/bigueeee/);
 
