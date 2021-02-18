@@ -15,15 +15,18 @@
 
 <br>
 <p align="center">
-
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&theme=cobalt&layout=compact" />
-
-<br>
-
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Biguelini&theme=cobalt&show_icons=true&hide_border=true" />
-
-<br>
-
-<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&theme=cobalt&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Biguelini&count_private=true&show_icons=true&theme=cobalt&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
+<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
