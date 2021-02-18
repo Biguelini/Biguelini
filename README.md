@@ -28,5 +28,7 @@
       src="https://github-readme-stats.vercel.app/api?username=Biguelini&count_private=true&show_icons=true&theme=cobalt&custom_title=Github%20Status&hide=issues"
     />
   </a>
+  <br>
+  <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </p>
-<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+
