@@ -12,6 +12,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <br>
+- <b><h2>Stats</h2></b>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
