@@ -7,7 +7,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: biguelinijoao@gmail.com, [instagram](https://www.instagram.com/bigueeee/);
 
-- ## **Languages:**
+- **Languages:**
 <br>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
