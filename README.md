@@ -32,7 +32,9 @@
     />
   </a>
   <br>
-  <img alt="GIF" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/>
+  <br>
+  <br>
+  <img width="800" alt="GIF" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/>
 </p>
 
 
