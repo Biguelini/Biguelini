@@ -32,6 +32,7 @@
     />
   </a>
   <br>
-  <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+  <img alt="GIF" src="https://media.giphy.com/media/fr4GKfJFL92G3z1LkV/giphy.gif" />
 </p>
+
 
