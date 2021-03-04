@@ -1,5 +1,6 @@
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center">I'm a <b>student</b> :book: from <b>Brazil</b> and in my free time enjoy games :video_game: and basketball :basketball:! </p>
+# João Pedro Biguelini 
+### Hello, I am João, welcome to my github!
+I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :video_game: and **basketball** :basketball:.
 <br>
 
 - 🌱 I’m currently learning Python, PHP, C, Visual Basic;
@@ -7,20 +8,24 @@
 - 📫 How to reach me: biguelinijoao@gmail.com, [instagram](https://www.instagram.com/bigueeee/);
 - <b><h2>Linguagens</h2></b>
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <br>
-</p>
 
-- <b><h2>Stats</h2></b>
+## Technologies
+<div text-align="justify">
+  <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
+  <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
+  <img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=6C1FFF" />
+  <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
+  <img src="https://img.shields.io/badge/Ts-007acc?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=007acc" />
+  <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
+  <img src="https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=fff&labelColor=777bb3" />
+   <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=java&logoColor=fff&labelColor=f89820" />
+  <img src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=fff&labelColor=5c6bc0" />
+  <img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff&labelColor=4B8BBE" />
+</div>
+<br>
+
+## Stats
 <p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -37,7 +42,7 @@
   </a>
   <br>
   <br>
-  <img width="800" alt="GIF" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/>
+  <img width="800" alt="GIF" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/
 </p>
 
 
