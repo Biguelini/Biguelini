@@ -40,7 +40,7 @@ I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :vi
   </a>
   <br>
   <br>
-  <img width="800" alt="GIF" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif"/>
+  <img width="800" alt="GIF" src="https://media.giphy.com/media/4UzW8S83pWoKs/giphy.gif"/>
 </p>
 
 
