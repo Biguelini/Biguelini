@@ -3,8 +3,8 @@
 I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :video_game: and **muay thai** :boxing_glove:.
 <br>
 
-- 🌱 I’m currently learning Python, PHP, C, C++, Visual Basic, Java, Visual Basic and Dart;
-- 💻 Main languages: PHP, Python, Dart;
+- 🌱 I’m currently learning Python, JavaScript, Java, and Dart;
+- 💻 Main languages: Python, JavaScript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: biguelinijoao@gmail.com, [instagram](https://www.instagram.com/joaobiguelini/);
 <br>
