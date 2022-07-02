@@ -30,7 +30,7 @@ I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :vi
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&theme=cobalt&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&layout=compact&theme=cobalt"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
