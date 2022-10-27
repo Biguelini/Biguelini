@@ -1,6 +1,6 @@
 # João Pedro Biguelini 
 ### Hello, I am João, welcome to my github!
-I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :video_game: and **muay thai** :boxing_glove:.
+I'm a **student** :book: from **Brazil** and in my free time enjoy **games** :video_game: and **gym** 🏋️‍♂️:.
 <br>
 
 - 🌱 I’m currently learning Python, JavaScript, Java, and Dart;
