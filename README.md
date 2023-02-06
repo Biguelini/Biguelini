@@ -1,4 +1,5 @@
 # <p align="center"> Hello, I am João, welcome to my github! <p>
+<img  src="https://media.licdn.com/dms/image/D4D16AQHiKXa37sk9mA/profile-displaybackgroundimage-shrink_350_1400/0/1675656678151?e=1681344000&v=beta&t=wYIj7Cj0rfsP7Ez1p8l7TJOe0wL9s2WL73msGfq_PbI"/>
 ## 💫 About Me:
 🔭 I’m currently working on personal projects.<br>🌱 I’m currently learning Next.js, Flutter and Spring Boot.<br>💻 Main languages: Next.js, Flutter and Spring Boot.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
 
