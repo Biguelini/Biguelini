@@ -62,6 +62,15 @@
 
   
  
+<p >
+  <img  src="https://github-readme-stats.vercel.app/api?username=biguelini&show_icons=true&theme=radical&locale=pt-br" alt="biguelini" />
+  <br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=biguelini&show_icons=true&theme=radical&locale=pt-br&layout=compact" alt="biguelini" />
+  
+
+</p>
+
+
 
 
 
