@@ -1,7 +1,7 @@
 # <p align="center"> Hello, I am João, welcome to my github! <p>
   
 ## 💫 About Me:
-🔭 I’m currently working on personal projects.<br>🌱 I’m currently learning Next.js, Flutter and Spring Boot.<br>💻 Main languages: Next.js, Flutter and Spring Boot.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
+🔭 I’m currently working on Laon Labs.<br>🌱 I’m currently learning Next.js, Flutter and Spring Boot.<br>💻 Main languages: Next.js, Flutter and Spring Boot.<br>💬 Ask me about anything tech related, I am happy to help.<br>🔱 In my free time, I enjoy the gym.
 
 
 ## 🌐 Socials:
