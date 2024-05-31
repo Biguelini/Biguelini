@@ -22,5 +22,3 @@
 ## ⚙️ Settings:
 
 #### Vs Code
-
-<script src="https://gist.github.com/Biguelini/0440e4c12ce5e93bea3eb991c3ec3b95.js" ></script>
