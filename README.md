@@ -19,13 +19,8 @@
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-## ✨ Stats:
-<p >
-  <img  src="https://github-readme-stats.vercel.app/api?username=biguelini&show_icons=true&theme=radical&locale=pt-br" alt="biguelini" />
-</p>
+## ⚙️ Settings:
 
+#### Vs Code
 
-
-
-
-
+<script src="https://gist.github.com/Biguelini/0440e4c12ce5e93bea3eb991c3ec3b95.js" ></script>
